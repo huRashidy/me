@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hussin El-Rashdiy</h1>
-<h3 align="center">enthusiastic machine learning engineer more focused on helatchare</h3>
+<h3 align="center">enthusiastic machine learning engineer more focused on helathcare</h3>
 
 - 🔭 I’m currently working on **object detection using mask R-CNN**
 
