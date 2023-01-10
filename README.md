@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Hussin El-Rashdiy</h1>
 <h3 align="center">enthusiastic machine learning engineer more focused on helathcare</h3>
 
-- 🔭 I’m currently working on **object detection using mask R-CNN**
+- 🔭 I’m currently working on **Genome-wide Analysis of the Dynamics of Chromatin and Nuclear
+Proteins in Living Cells using C++ and CUDA*
 
-- 🌱 I’m currently learning **pytorch, advanced deep learning**
+- 🌱 I’m currently learning **advanced deep learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/huRashidy?tab=repositories](https://github.com/huRashidy?tab=repositories)
 
